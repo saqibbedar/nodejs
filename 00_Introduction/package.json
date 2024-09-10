@@ -1,0 +1,11 @@
+{
+  "name": "introduction",
+  "version": "1.0.0",
+  "description": "Printing hello",
+  "main": "Introduction.js",
+  "scripts": {
+    "start": "node Introduction.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

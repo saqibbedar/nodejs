@@ -1,0 +1,7 @@
+What are modules? Module refers to the reusable piece of code that can be imported. 
+
+Node modules? These are specific to the NodeJs application, there can be three types of Node modules.
+
+1. Core Modules: These modules are built-in that come along with nodejs i.e. fs, http, etc.
+2. Third-party modules: These are external libraries installed via npm i.e. express etc.
+3. Custom Modules: These are same as JavaScripts modules, where we separate our code in different files and import them.

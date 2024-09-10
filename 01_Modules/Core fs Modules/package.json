@@ -1,0 +1,11 @@
+{
+  "name": "01_modules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "03_coreNodeModule.js",
+  "scripts": {
+    "start": "node 03_coreNodeModule.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
